@@ -1,6 +1,6 @@
 {
   "name": "expired-hours",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this module allows you to write the time you want it to expire",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.27.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquitobb/expired-hours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marquitobb/expired-hours/issues"
+  },
+  "homepage": "https://github.com/marquitobb/expired-hours#readme"
 }
