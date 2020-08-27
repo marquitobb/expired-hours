@@ -1,0 +1,15 @@
+{
+  "name": "expired-hours",
+  "version": "1.0.0",
+  "description": "this module allows you to write the time you want it to expire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marco Cobian",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
