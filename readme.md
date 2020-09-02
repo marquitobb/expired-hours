@@ -9,7 +9,7 @@ this module allows you to write the time you want it to expire
 ### how use this
 
 ```
-const {time} = require(expired-hours)
+const {time} = require("expired-hours")
 
 let hour_expired = time(3) //this add how many hours expired and return hour and date expired
 

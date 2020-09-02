@@ -51,3 +51,10 @@ const expired = (hours) =>{
 }
 
 expired(timeExpired(3));
+
+
+module.exports ={
+    timeExpired,
+    expired,
+    time
+}
