@@ -1,6 +1,6 @@
 {
   "name": "expired-hours",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this module allows you to write the time you want it to expire",
   "main": "src/index.js",
   "scripts": {
