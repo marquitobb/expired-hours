@@ -4,7 +4,7 @@ this module allows you to write the time you want it to expire
 
 ## import module
 
-```const {time} = require(expired-hours)```
+```const {time} = require("expired-hours")```
 
 ### how use this
 

@@ -39,12 +39,12 @@ const expired = (hours) =>{
     if (fV < f) {
         console.log("expired");
         //clear all session
-        localStorage.clear();
+        //localStorage.clear();
     } else if (fV === f) {
         if (hV < h) {
         console.log("expired");
         //clear all session
-        localStorage.clear();
+        //localStorage.clear();
         }
     }
     console.log("expire hours");
